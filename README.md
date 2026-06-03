@@ -1,10 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gustavo%20Diaz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20autonomous%20systems%20that%20work%20while%20I%20sleep&descAlignY=54&descSize=17" />
+
 <div align="center">
 
-# Gustavo Diaz
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&repeat=true&width=480&lines=AI+Automation+Builder;Homelab+Engineer;Linux+Power+User+%F0%9F%90%A7;n8n+%2B+Claude+%2B+Notion+%2B+Telegram)](https://github.com/gustavodiaz-gif)
 
-**Building autonomous systems that work while I sleep.**
-
-🇩🇴 Dominican Republic · AI Automation Builder · Linux Nerd
+🇩🇴 Dominican Republic &nbsp;·&nbsp; Self-hosted everything &nbsp;·&nbsp; CachyOS / Hyprland
 
 [![GitHub followers](https://img.shields.io/github/followers/gustavodiaz-gif?style=flat&color=7aa2f7&labelColor=1a1b2e&label=followers)](https://github.com/gustavodiaz-gif)
 
@@ -12,7 +12,7 @@
 
 ---
 
-I build AI agents and automation stacks that handle the boring parts of life.  
+I build AI agents and automation stacks that handle the boring parts of life.
 My homelab runs 24/7, my finances track themselves, and my system patches itself at 3am on Sundays — no hands required.
 
 Currently studying at Universidad del Caribe while shipping things that make up for the lack of sleep.
@@ -64,10 +64,22 @@ Currently studying at Universidad del Caribe while shipping things that make up 
 ## Stats
 
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=gustavodiaz-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=github" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=gustavodiaz-gif&theme=tokyonight&hide_border=true&background=0D1117&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=565f89" />
+      </td>
+    </tr>
+  </table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavodiaz-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodiaz-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5&langs_count=6" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodiaz-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5)
+  <br><br>
+
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavodiaz-gif&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7aa2f7&line=bb9af7&point=7aa2f7&area=true&area_color=7aa2f7" />
 
 </div>
 
@@ -78,3 +90,5 @@ Currently studying at Universidad del Caribe while shipping things that make up 
 *"The best automation is the one you forget is running."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
