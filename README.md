@@ -66,7 +66,7 @@ Currently studying at Universidad del Caribe while shipping things that make up 
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=gustavodiaz-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats-fork-puce.vercel.app/api?username=gustavodiaz-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=github" />
   <img height="160" src="https://streak-stats.demolab.com?user=gustavodiaz-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=565f89&hide_total_contributions=false" />
 
   <br/>
