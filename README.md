@@ -7,6 +7,7 @@
 🇩🇴 Dominican Republic &nbsp;·&nbsp; Self-hosted everything &nbsp;·&nbsp; CachyOS / Hyprland
 
 [![GitHub followers](https://img.shields.io/github/followers/gustavodiaz-gif?style=flat&color=7aa2f7&labelColor=1a1b2e&label=followers)](https://github.com/gustavodiaz-gif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavodaviddiaz00)
 
 </div>
 
