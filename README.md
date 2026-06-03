@@ -27,7 +27,6 @@ Currently studying at Universidad del Caribe while shipping things that make up 
 | 💰 | **Financial Agent** | Telegram bot that logs expenses, tracks debt, and coaches spending in real time — n8n + Claude + Notion |
 | 🏠 | **Homelab Monitor** | Proxmox + LXC stack that watches itself and reports to Telegram every morning |
 | ⚙️ | **Desktop Automation** | CachyOS machine that updates, cleans, and logs its own health to Notion every Sunday at 3am |
-| 🎓 | **Unicaribe Tracker** | AI agent that monitors Blackboard deadlines and sends a 7-day briefing every morning |
 
 <br>
 
