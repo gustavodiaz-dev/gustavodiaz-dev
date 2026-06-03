@@ -64,18 +64,13 @@ Currently studying at Universidad del Caribe while shipping things that make up 
 ## Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gustavodiaz-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=github" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=gustavodiaz-gif&theme=tokyonight&hide_border=true&background=0D1117&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=565f89" />
-      </td>
-    </tr>
-  </table>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodiaz-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavodiaz-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=github" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=gustavodiaz-gif&theme=tokyonight&hide_border=true&background=0D1117&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=565f89" />
+
+  <br/>
+
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodiaz-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5&langs_count=6" />
 
   <br><br>
 
