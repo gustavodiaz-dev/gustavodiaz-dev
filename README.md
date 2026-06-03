@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&repeat=true&width=480&lines=AI+Automation+Builder;Homelab+Engineer;Linux+Power+User+%F0%9F%90%A7;n8n+%2B+Claude+%2B+Notion+%2B+Telegram)](https://github.com/gustavodiaz-dev)
 
-🇩🇴 Dominican Republic &nbsp;·&nbsp; Self-hosted everything &nbsp;·&nbsp; CachyOS / Hyprland
+🇩🇴 Dominican Republic &nbsp;·&nbsp; Self-hosted everything &nbsp;·&nbsp; CachyOS / Hyprland &nbsp;·&nbsp; [**CV / Resume →**](https://gustavodiaz-dev.github.io/cv/)
 
 [![GitHub followers](https://img.shields.io/github/followers/gustavodiaz-dev?style=flat&color=7aa2f7&labelColor=1a1b2e&label=followers)](https://github.com/gustavodiaz-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavodaviddiaz00)
