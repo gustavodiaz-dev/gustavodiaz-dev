@@ -1,0 +1,80 @@
+<div align="center">
+
+# Gustavo Diaz
+
+**Building autonomous systems that work while I sleep.**
+
+🇩🇴 Dominican Republic · AI Automation Builder · Linux Nerd
+
+[![GitHub followers](https://img.shields.io/github/followers/gustavodiaz-gif?style=flat&color=7aa2f7&labelColor=1a1b2e&label=followers)](https://github.com/gustavodiaz-gif)
+
+</div>
+
+---
+
+I build AI agents and automation stacks that handle the boring parts of life.  
+My homelab runs 24/7, my finances track themselves, and my system patches itself at 3am on Sundays — no hands required.
+
+Currently studying at Universidad del Caribe while shipping things that make up for the lack of sleep.
+
+<br>
+
+## What's running right now
+
+| | Project | What it does |
+|--|---------|-------------|
+| 💰 | **Financial Agent** | Telegram bot that logs expenses, tracks debt, and coaches spending in real time — n8n + Claude + Notion |
+| 🏠 | **Homelab Monitor** | Proxmox + LXC stack that watches itself and reports to Telegram every morning |
+| ⚙️ | **Desktop Automation** | CachyOS machine that updates, cleans, and logs its own health to Notion every Sunday at 3am |
+| 🎓 | **Unicaribe Tracker** | AI agent that monitors Blackboard deadlines and sends a 7-day briefing every morning |
+
+<br>
+
+## Stack
+
+**Automation & AI**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=flat&logo=anthropic&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white)
+
+**Infrastructure**
+
+![CachyOS](https://img.shields.io/badge/CachyOS_(Arch)-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+
+**Environment**
+
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat&logo=alacritty&logoColor=white)
+![Fish](https://img.shields.io/badge/Fish_Shell-4F5B93?style=flat&logo=gnu-bash&logoColor=white)
+
+<br>
+
+## Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavodiaz-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodiaz-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best automation is the one you forget is running."*
+
+</div>
