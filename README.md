@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&repeat=true&width=480&lines=AI+Automation+Builder;Homelab+Engineer;Linux+Power+User+%F0%9F%90%A7;n8n+%2B+Claude+%2B+Notion+%2B+Telegram)](https://github.com/gustavodiaz-dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&repeat=true&width=480&lines=AI+Automation+Builder;Homelab+Engineer;Linux+Power+User;n8n+%2B+Claude+%2B+Notion+%2B+Telegram)](https://github.com/gustavodiaz-dev)
 
 Dominican Republic &nbsp;·&nbsp; Self-hosted everything &nbsp;·&nbsp; CachyOS / Hyprland &nbsp;·&nbsp; [**CV / Resume →**](https://gustavodiaz-dev.github.io/cv/)
 
