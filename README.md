@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&repeat=true&width=480&lines=AI+Automation+Builder;Homelab+Engineer;Linux+Power+User+%F0%9F%90%A7;n8n+%2B+Claude+%2B+Notion+%2B+Telegram)](https://github.com/gustavodiaz-dev)
 
-🇩🇴 Dominican Republic &nbsp;·&nbsp; Self-hosted everything &nbsp;·&nbsp; CachyOS / Hyprland &nbsp;·&nbsp; [**CV / Resume →**](https://gustavodiaz-dev.github.io/cv/)
+Dominican Republic &nbsp;·&nbsp; Self-hosted everything &nbsp;·&nbsp; CachyOS / Hyprland &nbsp;·&nbsp; [**CV / Resume →**](https://gustavodiaz-dev.github.io/cv/)
 
 [![GitHub followers](https://img.shields.io/github/followers/gustavodiaz-dev?style=flat&color=7aa2f7&labelColor=1a1b2e&label=followers)](https://github.com/gustavodiaz-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavodaviddiaz00)
@@ -22,11 +22,11 @@ Currently studying at Universidad del Caribe while shipping things that make up 
 
 ## What's running right now
 
-| | Project | What it does |
-|--|---------|-------------|
-| 💰 | **Financial Agent** | Telegram bot that logs expenses, tracks debt, and coaches spending in real time — n8n + Claude + Notion |
-| 🏠 | **Homelab Monitor** | Proxmox + LXC stack that watches itself and reports to Telegram every morning |
-| ⚙️ | **Desktop Automation** | CachyOS machine that updates, cleans, and logs its own health to Notion every Sunday at 3am |
+| Project | What it does |
+|---------|-------------|
+| **Financial Agent** | Telegram bot that logs expenses, tracks debt, and coaches spending in real time — n8n + Claude + Notion |
+| **Homelab Monitor** | Proxmox + LXC stack that watches itself and reports to Telegram every morning |
+| **Desktop Automation** | CachyOS machine that updates, cleans, and logs its own health to Notion every Sunday at 3am |
 
 <br>
 
